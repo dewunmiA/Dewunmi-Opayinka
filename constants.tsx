@@ -841,7 +841,7 @@ Relying on outdated, isolated blueprints will only reproduce the fragmented resu
   {
     id: "soft-power-africa",
     title: "Stop Doing CSR. Start Doing Soft Power That Pays: Creative Economy Strategy for Africa Market Entry",
-    date: "February 22, 2026",
+    date: "February 23, 2026",
     excerpt: "Most multinationals enter Africa with two separate playbooks: market entry and CSR. That split is the problem. If you want real market entry advantage, you need a Corporate Soft Power Strategy that treats the creative economy as infrastructure.",
     content: `Most multinationals enter Africa with two separate playbooks: market entry and CSR. That split is the problem.
 

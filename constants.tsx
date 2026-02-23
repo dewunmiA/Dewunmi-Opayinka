@@ -2,7 +2,6 @@ import React from 'react';
 import { NavItem, ServiceItem, PortfolioItem, BlogPost, Testimonial, ContactInfo } from './types';
 
 // Centralized Brand Images
-// NOTE: Replace these URLs with your direct image links from your Google Photos or hosting provider.
 export const BRAND_IMAGES = {
   hero: "https://i.pinimg.com/1200x/cf/39/af/cf39af74ca5f50c408029983058a3629.jpg", 
   sidebar: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=1000&auto=format&fit=crop", 
@@ -264,34 +263,34 @@ export const CONTACT_INFO: ContactInfo[] = [
 
 export const TESTIMONIALS: Testimonial[] = [
   {
-    quote: "Dewunmi is very resourceful and connected both locally in Nigeria and internationally. She is a font of knowledge... Her greatest strength is being able to curate and maintain strategic relationships. She can reach anyone she wants to with a few phone calls through her network.",
-    author: "Ifeoma Okafor-Obi",
-    role: "Business Executive & Public Speaker"
+    quote: "Dewunmi is very resourceful and connected both locally in Nigeria and internationally. She is a font of knowledge and even though I was very senior to her, I was able to learn grant writing from her. Her greatest strength is being able to curate and maintain strategic relationships. She can reach anyone she wants to with a few phone calls through her network.",
+    author: "Ifeoma Okafor-Obi FNIMN M.IoD",
+    role: "Business Executive & Humanitarian Award Winner"
   },
   {
-    quote: "Dewunmi is an exceptional professional. She has a rare combination of public and private sector experience... Our partnership with her on youth entrepreneurship and employment across more than 40 countries across Africa was remarkable.",
+    quote: "Dewunmi is an exceptional professional. She has a rare combination of public and private sector experience through her extensive work with international organisations and national governments. Our partnership with her on youth entrepreneurship and employment across more than 40 countries across Africa was remarkable. She is a dynamic leader, and will be an asset to any team that is keen to make a difference!!!",
     author: "Jide Martyns Okeke, PhD",
     role: "Director, Regional Programme for Africa"
   },
   {
-    quote: "Dewunmi is one of the most hardworking and astute partnership strategists I know. She is creative, resilient, and a go-getter... If you really want to open any door or execute projects in the global development sector, Dewunmi is the person to meet.",
+    quote: "Dewunmi is one of the most hardworking and astute partnership strategists I know. She is creative, resilient, and a go-getter. We both worked together at the Tony Elumelu Foundation and I must commend her teamwork spirit, her unflinching passion to get the job done, and her penchant for excellence while we worked together. She is always willing to help. If you really want to open any door or execute projects in the global development sector, Dewunmi is the person to meet.",
     author: "Ifesinachi Okoli-Okpagu",
     role: "Group CMO & Business Strategist"
   },
   {
-    quote: "I learned a lot from Dewunmi as a person, as strategic thinker and I grew immensely while working closely with her. She is an excellent manager that helps push team members to success and significance.",
-    author: "Olaoluwa Odusan",
-    role: "ICT for Development Leader"
-  },
-  {
-    quote: "Dewunmi is the perfect example of an active and helpful Manager... Thanks to her supervision, I gained a lot of knowledge about strategic partnerships. She is knowledgeable in her area of expertise and has awesome leadership ability.",
-    author: "Mary Iyere, PRINCE2®",
-    role: "Management Consultant"
-  },
-  {
-    quote: "She is a great manager and an outstanding leader committed to her team members' growth and success... Dewunmi is an excellent resource, a walking data bank and will be a great asset to anyone who works with her!",
+    quote: "Dewunmi is really a delightful person to work with! She is a great manager and an outstanding leader committed to her team members' growth and success. She is innovative, organized, helpful and is always open to ideas. She has helped me improve in many professional areas and taught me about leadership skills and she always leads by example. Dewunmi is an excellent resource, a walking data bank and will be a great asset to anyone who works with her!",
     author: "Oniye Okolo",
-    role: "Development & Social Impact Professional"
+    role: "Development and Social Impact Professional"
+  },
+  {
+    quote: "Dewunmi is the perfect example of an active and helpful Manager. I enjoyed working with her guidance during my time at TEF. Thanks to her supervision, I gained a lot of knowledge about strategic partnerships and the opportunity to execute on some related tasks. She is knowledgeable in her area of expertise and has awesome leadership ability. She trained a winner!",
+    author: "Mary Iyere, PRINCE2®",
+    role: "Management Consultant & Agile Practitioner"
+  },
+  {
+    quote: "I worked with Dewunmi as a fellow staff member, and as my senior at the Tony Elumelu Foundation, she was very adaptable, encouraging, and supportive. I learned a lot from Dewunmi as a person, as strategic thinker and I grew immensely while working closely with her. She is an excellent manager that helps push team members to success and significance. Her ability to focus on solutions and positive outcomes is contagious.",
+    author: "Olaoluwa Odusan",
+    role: "ICT for Development (ICT4D) Leader"
   }
 ];
 
@@ -570,7 +569,7 @@ The ANCHOR Framework addresses the "Old Blueprint" failures through six strategi
 
 "The best democracies are achieved through partnerships – of governments, business, and civil society."
 
-Narrative is a Strategic Catalyst, Not Just "Comms"
+Narrative is a Strategic Catalyst, Not just "Comms"
 
 Within a robust Impact OS, communication is not an afterthought; it is a strategic driver used to mobilize community action and shift the "donor ecosystem." Narrative strategy is the catalyst that translates advocacy into policy adoption and behavior change.
 
@@ -838,5 +837,60 @@ To solve Africa's most complex challenges, we must move beyond funding isolated 
 
 Relying on outdated, isolated blueprints will only reproduce the fragmented results we seek to overcome. The future demands a more intentional, integrated, and architectural approach. As you look at the challenges in your own work, ask yourself: What outdated blueprints are holding back progress in your field, and what would it take to design a new system for collaborative impact?`,
     imageUrl: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    id: "soft-power-africa",
+    title: "Stop Doing CSR. Start Doing Soft Power That Pays: Creative Economy Strategy for Africa Market Entry",
+    date: "February 22, 2026",
+    excerpt: "Most multinationals enter Africa with two separate playbooks: market entry and CSR. That split is the problem. If you want real market entry advantage, you need a Corporate Soft Power Strategy that treats the creative economy as infrastructure.",
+    content: `Most multinationals enter Africa with two separate playbooks: market entry and CSR. That split is the problem.
+
+CSR can support reputation, but it rarely builds durable demand. If you want real market entry advantage, you need a Corporate Soft Power Strategy that treats the creative economy as infrastructure, not decoration. And it should be structured to generate revenue, not just applause.
+
+What I mean by Corporate Soft Power Strategy
+
+Soft power is how a brand earns preference through culture, credibility, and emotional connection. In African markets, creators and cultural platforms shape what people trust, copy, buy, and defend.
+
+Why traditional CSR fails in the creative sector
+
+Typical sponsorships and “support the arts” CSR often collapse because:
+
+- there’s no ownership, so nothing lasts beyond the campaign
+- there’s no commercial logic, so it’s the first budget cut
+- creators become props, not partners
+- measurement is shallow, so leaders lose patience
+
+CSR produces attention. It rarely produces assets.
+
+The better model: co-owned IP with artists
+
+Instead of one-off sponsorship, structure partnerships where corporations co-own IP with artists or creative enterprises. That way, sponsorship becomes a deal and the output becomes a revenue-generating asset.
+
+What co-owned IP can unlock:
+
+- content and cultural relevance that travels across markets
+- recurring income through licensing, distribution, merchandising, or publishing
+- shared upside for creators, not just a fee
+
+This is not “we paid, so we own you.” It’s a negotiated structure with guardrails:
+
+- clear rights split (usage, territory, time, derivative works)
+- revenue share terms
+- creator protections (approval, creative boundaries, exit clauses)
+- governance that treats it like a serious deal
+
+A simple framework for corporates entering Africa
+
+1. Define the trust gap you need to close (not just “grow market share”).
+2. Pick the right creative lane (film, music, fashion, gaming, digital creators) based on your product and audience.
+3. Choose an asset-based partnership model (co-owned series, licensed creator incubator outputs, co-branded product lines with royalties).
+4. Measure culture + commerce (sentiment and engagement, plus lead lift, conversion impact, and IP revenue).
+
+Bottom line
+
+Africa’s creative economy isn’t a CSR side quest. It’s a market entry lever. But only if you structure partnerships as assets, with shared upside and clean governance.
+
+#StrategicPartnerships #CreativeEconomy #AfricaMarketEntry #SoftPower #CorporateStrategy #IPStrategy #CreatorEconomy #Licensing #SponsorshipStrategy #AfricaBusiness`,
+    imageUrl: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?q=80&w=2070&auto=format&fit=crop"
   }
 ];

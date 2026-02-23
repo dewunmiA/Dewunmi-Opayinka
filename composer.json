@@ -1,0 +1,21 @@
+{
+    "name": "dewunmiaisha/portfolio",
+    "description": "Portfolio and Landing Page for Dewunmi Aisha",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "authors": [
+        {
+            "name": "Dewunmi Aisha",
+            "email": "contact@dewunmiaisha.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
